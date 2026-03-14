@@ -6,6 +6,9 @@ A minimalist and aesthetically pleasing **Voice Recorder** built with **Flutter*
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6758262872)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/hdrjXI3Nl0s/0.jpg)](https://www.youtube.com/watch?v=hdrjXI3Nl0s)
+
 ## 🌟 Key Features
 - **Retro-Analog Interaction:** Mimics real magnetic tape behavior, including an automatic "rewind" action before playback.
 - **Card-Style Management:** Recordings are neatly organized into visual cards labeled with dates and durations.
